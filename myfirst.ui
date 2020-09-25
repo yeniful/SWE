@@ -57,7 +57,7 @@ p, li { white-space: pre-wrap; }
      <string>화씨로 섭씨로 </string>
     </property>
    </widget>
-   <widget class="QTextEdit" name="output">
+   <widget class="QTextEdit" name="outputValue">
     <property name="geometry">
      <rect>
       <x>290</x>
